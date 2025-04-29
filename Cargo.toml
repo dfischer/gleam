@@ -51,7 +51,7 @@ hexpm = "1.0"
 # Allow user to type in sensitive information without showing it in the shell
 rpassword = "4.0"
 # Async runtime
-tokio = "0.2"
+tokio = "1.18"
 # Creation of tar file archives
 tar = "0.4"
 # gzip compression
